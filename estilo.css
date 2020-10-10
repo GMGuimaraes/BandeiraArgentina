@@ -1,0 +1,48 @@
+.bandeira{
+
+		  width:  600px;
+
+		  height:  350px;
+
+		  border:  1px solid;
+
+		  display: block;
+
+		}
+
+		.faixa{
+
+	        width: 100%;
+
+	        height: 33.33%;
+
+        }
+
+        .faixa:nth-child(1){
+
+        	background-color:#ADD8E6;
+
+        }
+
+        .faixa:nth-child(2){
+
+        	background-color:#FFFFFF;
+
+        }
+
+        .faixa:nth-child(3){
+
+        	background-color:#ADD8E6;
+
+        }
+        .sol img{
+
+                 width: 110px;
+
+                height: 110px;
+
+                margin-top: 2px;
+
+                margin-left: 245px;
+
+        }
